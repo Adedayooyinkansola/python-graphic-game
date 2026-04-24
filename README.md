@@ -19,4 +19,4 @@ This project is a graphic-based game developed using Python. It demonstrates pro
 3. Open the project folder  
 4. Run the main file:
 ```bash
-python main.py
+python main_room.py
